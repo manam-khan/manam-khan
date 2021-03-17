@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manam-khan Studying in Bachelors in Computer Science at University of Sindh Jamshoro
+- 👋 Hi, I’m @manam-khan Studying Bachelors in Computer Science at University of Sindh Jamshoro
 - 👀 I’m interested in AI Robotics
 - 🌱 I’m currently learning Numpy Library 
 - 💞️ I’m looking to collaborate on Internee Work in AI Robotics 
